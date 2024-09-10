@@ -36,7 +36,7 @@ module.exports = {
     KICKMEMSG: 'default',
     OWNER: 'AiDarkEzio',
     ALL: 'Made By Pinky',
-    MENTION:'94781564565@s.whatsapp.net',
+    MENTION:'94775704025@s.whatsapp.net',
     ADDMSG: 'default',
     MUTEMSG: 'default',
     BOT: '⊢‒‒‒ ⋈ PINKY ⋈ ‒‒‒⊣',
